@@ -1,0 +1,8 @@
+res_*
+*.txt
+*.gz
+*.BACK
+*.ORIG
+*.7z
+*.html
+test_*
